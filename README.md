@@ -1,5 +1,5 @@
 # Rick and Morty - Personagem Aleatório
-Projeto desenvolvido na disciplina de Desenvolvimento para Plataforma Móveis do curso de Sistema de Informações da UNIDAVI
+> Projeto desenvolvido na disciplina de Desenvolvimento para Plataforma Móveis do curso de Sistema de Informações da UNIDAVI
 
 ## Funcionalidades
 
